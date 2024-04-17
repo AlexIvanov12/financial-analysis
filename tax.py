@@ -36,3 +36,4 @@ annual_income = 50000  # Припустимо дохід 50,000
 province = "Ontario"
 federal_tax, provincial_tax = calculate_taxes(name, annual_income, province)
 print(f"Federal Tax: ${federal_tax}, Provincial Tax: ${provincial_tax}")
+
